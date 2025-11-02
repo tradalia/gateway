@@ -25,9 +25,9 @@ THE SOFTWARE.
 package main
 
 import (
-	"github.com/bit-fever/core/boot"
-	"github.com/bit-fever/gateway/pkg/app"
-	"github.com/bit-fever/gateway/pkg/service"
+	"github.com/tradalia/core/boot"
+	"github.com/tradalia/gateway/pkg/app"
+	"github.com/tradalia/gateway/pkg/service"
 )
 
 //=============================================================================

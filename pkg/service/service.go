@@ -27,8 +27,8 @@ package service
 import (
 	"crypto/tls"
 	"crypto/x509"
-	"github.com/bit-fever/core"
-	"github.com/bit-fever/gateway/pkg/app"
+	"github.com/tradalia/core"
+	"github.com/tradalia/gateway/pkg/app"
 	"github.com/gin-gonic/gin"
 	"log/slog"
 	"net/http"

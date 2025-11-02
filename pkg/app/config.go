@@ -24,7 +24,7 @@ THE SOFTWARE.
 
 package app
 
-import "github.com/bit-fever/core"
+import "github.com/tradalia/core"
 
 //=============================================================================
 
